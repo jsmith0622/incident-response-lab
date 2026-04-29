@@ -36,7 +36,7 @@ Three detection rules fired during the incident:
 
 ## Kibana Alert Timeline
 
-![Kibana Discovery Timeline](discovery.png)
+![Kibana Alerts](alerts%202.png)
 
 ## IR Response (PICERL)
 
