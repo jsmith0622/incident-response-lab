@@ -41,4 +41,19 @@ Three detection rules fired during the incident:
 - **Containment** — Attacker IP blocked at firewall. Backdoor accounts locked
 - **Eradication** — Backdoor accounts deleted. Malicious cron job removed. Compromised password reset
 - **Recovery** — Firewall hardened with default deny policy. SSH restricted to admin IP only. Services verified operational
-- **Lessons Learned** — Root cause identified as
+- **Lessons Learned** — Root cause identified as weak password + no host firewall. 7 hardening recommendations documented
+
+## Response Time
+
+~20 minutes from identification to recovery
+
+## Full Report
+
+See [ir_report.docx](ir_report.docx) for the complete incident response report including full timeline, forensic evidence, MITRE ATT&CK mapping, and recommendations.
+
+## Tools Used
+
+- Elastic Stack 8.19.14 (Elasticsearch, Kibana, Elastic Agent)
+- Kali Linux — Nmap, Hydra
+- UFW (host-based firewall)
+- Ubuntu 26.04 ARM64
