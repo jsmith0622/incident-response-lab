@@ -34,6 +34,10 @@ Three detection rules fired during the incident:
 
 851 failed authentication attempts captured. All attack phases logged and alerted on in real time through the ELK stack SIEM.
 
+## Kibana Alert Timeline
+
+![Kibana Discovery Timeline](discovery.png)
+
 ## IR Response (PICERL)
 
 - **Preparation** — System baseline captured before incident
