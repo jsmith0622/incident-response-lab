@@ -35,7 +35,6 @@ Three detection rules fired during the incident:
 851 failed authentication attempts captured. All attack phases logged and alerted on in real time through the ELK stack SIEM.
 
 ## Kibana Alert Timeline
-
 ![Kibana Alerts](alerts%202.png)
 
 ## IR Response (PICERL)
@@ -53,7 +52,7 @@ Three detection rules fired during the incident:
 
 ## Full Report
 
-See [ir_report.docx](ir_report.docx) for the complete incident response report including full timeline, forensic evidence, MITRE ATT&CK mapping, and recommendations.
+See [ir_report.pdf](ir_report.pdf) for the complete incident response report including full timeline, forensic evidence, MITRE ATT&CK mapping, and recommendations.
 
 ## Tools Used
 
@@ -61,3 +60,13 @@ See [ir_report.docx](ir_report.docx) for the complete incident response report i
 - Kali Linux — Nmap, Hydra
 - UFW (host-based firewall)
 - Ubuntu 26.04 ARM64
+
+## Other Labs in This Series
+
+| Lab | Topic | Repo |
+|---|---|---|
+| Lab 1 | SOC/SIEM Detection | [soc-home-lab](https://github.com/jsmith-sec/soc-home-lab) |
+| Lab 2 | Incident Response Simulation | This repo |
+| Lab 3 | Web Application Attack | [web-app-attack-lab](https://github.com/jsmith-sec/web-app-attack-lab) |
+| Lab 4 | Vulnerability Assessment | [vulnerability-assessment-lab](https://github.com/jsmith-sec/vulnerability-assessment-lab) |
+| Lab 5 | Malware Analysis | [malware-analysis-lab](https://github.com/jsmith-sec/malware-analysis-lab) |
