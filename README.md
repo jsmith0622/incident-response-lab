@@ -89,7 +89,7 @@ See [ir_report.pdf](ir_report.pdf) for the complete incident response report inc
 
 | Lab | Topic | Repo |
 |---|---|---|
-| Lab 1 | SOC/SIEM Detection | [soc-home-lab](https://github.com/jsmith-sec/soc-home-lab) |
+| Lab 1 | SOC/SIEM Detection | [soc-siem-lab](https://github.com/jsmith-sec/soc-siem-lab) |
 | Lab 2 | Incident Response Simulation | This repo |
 | Lab 3 | Web Application Attack | [web-app-attack-lab](https://github.com/jsmith-sec/web-app-attack-lab) |
 | Lab 4 | Vulnerability Assessment | [vulnerability-assessment-lab](https://github.com/jsmith-sec/vulnerability-assessment-lab) |
