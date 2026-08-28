@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚨 Incident Response Lab — IR-001
+# 🚨 Incident Response Lab - IR-001
 ### SSH Compromise → Containment → Recovery
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=690&lines=Full-Lifecycle+Incident+Response+%7C+PICERL;Brute+Force+to+Backdoor+to+Recovery;Contained+%26+Recovered+in+~20+Minutes" alt="typing summary" />
